@@ -9,7 +9,12 @@ that automates and control browser and its activities.
 3. send keys
 4. Click login button
 
+## Screenshot
+
+![alt text](screenshot/code.png)
+
 ## How to run 
 
 - Open commandline in the folder conatining the python file
 - execute `python app.py`
+

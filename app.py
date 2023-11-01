@@ -13,11 +13,11 @@ print("Facebook opened")
 sleep(1)
 
 user_email = driver.find_element(By.ID, 'email_container')
-user_email.send_keys("levis@gmaol.com")
+user_email.send_keys("levis123@gmail.com")
 print("Email Entered")
 sleep(1)
 user_password = driver.find_element(By.ID, 'pass')
-user_password.send_keys("leviso")
+user_password.send_keys("levis123")
 print("Password Entered")
 
 login = driver.find_element(By.ID, 'loginbutton')
